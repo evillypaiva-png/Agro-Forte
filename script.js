@@ -1,5 +1,5 @@
 
-    const botao=document.getElementById("tema");
+    const botao= document.getElementById("tema");
     botao.addEventListener("click",function(){
         document.body.classList.toggle("dark");
         });
