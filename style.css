@@ -4,11 +4,11 @@ body{
     margin-top: 100px;
     background:white;
     color:black;
-    transition:0.4s;
+    transition: 0.4s;
 }
 .dark{
-    background:#222
-    color:white;
+    background:#222;
+    color: white;
 }
 button{
     padding:10px 20px;
